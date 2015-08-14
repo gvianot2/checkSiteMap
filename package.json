@@ -1,0 +1,23 @@
+{
+  "name": "checkSiteMap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gvianot2/checkSiteMap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gvianot2/checkSiteMap/issues"
+  },
+  "homepage": "https://github.com/gvianot2/checkSiteMap",
+  "dependencies": {
+    "request": "^2.60.0",
+    "xmldoc": "^0.3.1"
+  }
+}
